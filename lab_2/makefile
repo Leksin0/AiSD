@@ -1,4 +1,4 @@
-# LIB=list LIB=vec TYPE=dyn TYPE=stat
+# LIB = "list" OR "vec" TYPE = "dyn" OR "stat"
 LIB = dflt
 TYPE = dflt
 all: main
